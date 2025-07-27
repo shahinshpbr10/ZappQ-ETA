@@ -1,0 +1,17 @@
+Index
+Hour
+Minute
+Weekday
+ServedAfterBreak
+Day_Friday
+Day_Monday
+Day_Saturday
+Day_Sunday
+Day_Thursday
+Day_Tuesday
+Day_Wednesday
+Specialization_Neonatology
+Specialization_Obstetrics and Gynecology
+Type_Advance
+Type_advance
+Type_walkin
