@@ -16,7 +16,7 @@ weekday = now.weekday()  # Monday = 0, Sunday = 6
 
 
 input_data = {
-    "Index": 15,  # e.g., 15th patient in the queue
+    "Index": 100,  # e.g., 15th patient in the queue
     "Hour": hour,
     "Minute": minute,
     "Weekday": weekday,
