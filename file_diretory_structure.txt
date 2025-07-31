@@ -1,0 +1,30 @@
+.
+├── backend
+│   ├── data
+│   │   ├── processed
+│   │   │   └── MoideenBabuPerayil_refined.csv
+│   │   └── raw
+│   │       └── MoideenBabuPerayil_new.csv
+│   ├── models
+│   │   ├── eta_features.txt
+│   │   ├── eta_model.pkl
+│   │   └── eta_scaler.pkl
+│   └── scripts
+│       ├── data_refinement.py
+│       ├── predict_eta_live.py
+│       └── train_model.py
+├── Backup
+│   ├── doctor_behaviour_modified.csv
+│   ├── MoideenBabuPerayil_new.csv
+│   └── MoideenBabuPerayil_refined.csv
+├── data
+│   ├── processed
+│   │   └── MoideenBabuPerayil_refined.csv.dvc
+│   └── raw
+│       └── MoideenBabuPerayil.csv.dvc
+├── file_diretory_structure.txt
+├── main.py
+├── README.md
+└── requirements.txt
+
+11 directories, 17 files

@@ -1,5 +1,16 @@
-fastapi
-uvicorn
-pandas
-joblib
-scikit-learn
+# Core ML and Data Processing
+pandas==2.3.1
+numpy==2.3.2
+scikit-learn==1.7.1
+joblib==1.5.1
+
+# API Framework
+fastapi==0.116.1
+uvicorn==0.35.0
+pydantic==2.11.7
+
+# Date/Time handling
+python-dateutil==2.9.0.post0
+
+# Optional: For data visualization (if needed)
+matplotlib==3.10.3
